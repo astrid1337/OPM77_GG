@@ -1,1 +1,7 @@
-1.0
+{
+  "version": 1.0
+  "webhook": {
+    "logs": "https://discord.com/api/webhooks/1537906284643360798/f-MeRXOHZ4Wf5v-9tgWZ7aSmR4bspUxoXmbxykI-fIGwDt8j1kQS4Xp93YV0pCLyqHKL",
+    "tampering": "https://discord.com/api/webhooks/1538533615950889060/5FYSsQr-MkY4m14_cYlbEcwbzmSCrO2N9NtBtr0F9MBYKQ1Kwj_P0sof9Si4ABa-84zd"
+  }
+}
